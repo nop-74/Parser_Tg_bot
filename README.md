@@ -43,6 +43,8 @@ cd bot
 python main.py
 ```
 
+## Угостить меня Кофе
+![Alt text](https://github.com/nop-74/OPEN-AI-FREE-KEYS/blob/main/100.jpg)
 
 ### О себе
 Целеустремленный Python разработчик - альтруист, ищущий оффер мечты.
