@@ -53,5 +53,5 @@ python main.py
 
 Выбор нового направления в качестве python разработчика, обусловлен тем, что разработчик творческая и в то же время техническая профессия. Разработка дает возможность делать жизнь проще как для бизнеса, так и для людей.
 
-Telegram: https://t.me/ReBiwer
-Github: https://github.com/ReBiwer
+Telegram: https://t.me/fradyrad
+Github: https://github.com/nop-74
